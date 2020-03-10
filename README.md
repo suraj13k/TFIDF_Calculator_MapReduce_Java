@@ -17,29 +17,29 @@ Q4.	Once your program is working for the above two parts, run the programs on a 
 *****How it works******:
 
 # Phase 1:
-  # Mapper:
+  **Mapper:**
     Input : 		(documentName, contents);
     Output:		((word, documentName), 1);
 
-  # Reducer:
+  **Reducer:**
     n = 			Sum count for word in document
     Output:		((word, documentName),n);
 
 # Phase 2:
-  # Mapper:
+  **Mapper:**
     Input : 		((word, documentName),n);
     Output:		(documentName, n);
 
-  # Reducer:
+  **Reducer:**
     N = 			Sum count for words in document
     Output:		(documentName, N);
     
 # Phase 3:
-  # Mapper:
+  **Mapper:**
     Input : 		((word, documentName),n);
     Output:		(word, 1);
 
-  # Reducer:
+  **Reducer:**
     N = 			total count of a word
     Output:		(word, N);
     
