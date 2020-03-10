@@ -10,7 +10,7 @@ Q3.	Now consider a “Term” to mean a 2-gram (two words occurring sequentially
     a.	List of top 20 2-grams for each document, having the highest TFIDF values. The task of selecting the top 20 terms does not need to be done by the MapReduce program.
     b.	Which output – obtained in 3(a) or in 2(a) – better characterizes the documents? Give reasons for your answers.
 
-Q4.	Once your program is working for the above two parts, run the programs on a larger collection of documents (to be provided to you by March 2nd) and repeat the above task . Discuss the results for 1(a), 2(a), and 3(a) in the context of the new set of documents. 
+Q4.	Once your program is working for the above two parts, run the programs on a larger collection of documents and repeat the above task . Discuss the results for 1(a), 2(a), and 3(a) in the context of the new set of documents. 
 
 
 # MapReduce 
