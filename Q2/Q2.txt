@@ -1,0 +1,73 @@
+Document - 0001 Term - Lorem    0.1320280343923705
+Document - 0001 Term - Ipsum    0.1320280343923705 
+Document - 0001 Term - and      0.09902102579427789
+Document - 0001 Term - of       0.0
+Document - 0001 Term - the      0.0
+
+Document - 0002 Term - from     0.17064375897410047
+Document - 0002 Term - in       0.16503504299046315
+Document - 0002 Term - Latin    0.12798281923057533
+Document - 0002 Term - a        0.08251752149523157
+Document - 0002 Term - Lorem    0.08251752149523157
+Document - 0002 Term - Ipsum    0.06601401719618526
+Document - 0002 Term - and      0.049510512897138946
+Document - 0002 Term - of       0.0
+Document - 0002 Term - the      0.0
+
+Document - 0003 Term - by       1.791759469228055
+
+Document - 0004 Term - a        0.24755256448569474
+Document - 0004 Term - and      0.14853153869141683
+Document - 0004 Term - of       0.0
+Document - 0004 Term - the      0.0
+
+Document - 0005 Term - to       0.22396993365350687
+Document - 0005 Term - words    0.16797745024013017
+Document - 0005 Term - Ipsum    0.10830424696249145
+Document - 0005 Term - Lorem    0.10830424696249145
+Document - 0005 Term - a        0.06498254817749487
+Document - 0005 Term - of       0.0
+Document - 0005 Term - the      0.0
+
+Document - 0006 Term - sit      0.48094967415251616
+Document - 0006 Term - amet     0.48094967415251616
+Document - 0006 Term - nisi     0.32063311610167744
+Document - 0006 Term - et       0.24047483707625808
+Document - 0006 Term - magna    0.24047483707625808
+Document - 0006 Term - Cras     0.24047483707625808
+Document - 0006 Term - semper   0.24047483707625808
+Document - 0006 Term - in       0.13415751881805393
+
+Document - 0007 Term - diam     1.2424533248940002
+Document - 0007 Term - augue    1.2424533248940002
+
+Document - 0008 Term - Ipsum    0.1320280343923705
+Document - 0008 Term - Lorem    0.1320280343923705
+Document - 0008 Term - and      0.09902102579427789
+Document - 0008 Term - of       0.0
+Document - 0008 Term - the      0.0
+
+Document - 0009 Term - from     0.17064375897410047
+Document - 0009 Term - in       0.16503504299046315
+Document - 0009 Term - Latin    0.12798281923057533
+Document - 0009 Term - Lorem    0.08251752149523157
+Document - 0009 Term - a        0.08251752149523157
+Document - 0009 Term - Ipsum    0.06601401719618526
+Document - 0009 Term - and      0.049510512897138946
+Document - 0009 Term - the      0.0
+Document - 0009 Term - of       0.0
+
+Document - 0010 Term - by       1.791759469228055
+
+Document - 0011 Term - a        0.24755256448569474
+Document - 0011 Term - and      0.14853153869141683
+Document - 0011 Term - the      0.0
+Document - 0011 Term - of       0.0
+
+Document - 0012 Term - to       0.22396993365350687
+Document - 0012 Term - words    0.16797745024013017
+Document - 0012 Term - Ipsum    0.10830424696249145
+Document - 0012 Term - Lorem    0.10830424696249145
+Document - 0012 Term - a        0.06498254817749487
+Document - 0012 Term - the      0.0
+Document - 0012 Term - of       0.0

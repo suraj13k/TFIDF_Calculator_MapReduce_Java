@@ -1,0 +1,6 @@
+Input file format:
+<doc_name>    set of words separated by space.
+
+hadoop jar p1.jar PhaseOne <inputPath> <outputPath>
+hadoop jar p2.jar PhaseTwo <inputPath> <outputPath>
+hadoop jar p3.jar PhaseThree <inputPath> <outputPath>

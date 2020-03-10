@@ -1,0 +1,61 @@
+Document - doc1.txt Term - Injun Joe    7.386125377626125E-4
+Document - doc1.txt Term - The boys     6.073036421603702E-4 
+Document - doc1.txt Term - Muff Potter  2.7903140315476473E-4
+Document - doc1.txt Term - Huck was     2.7903140315476473E-4
+Document - doc1.txt Term - Tom had      2.7903140315476473E-4
+Document - doc1.txt Term - Injun Joes   2.7903140315476473E-4
+Document - doc1.txt Term - said Huck    2.462041792542042E-4
+Document - doc1.txt Term - Joe Harper   2.1337695535364362E-4
+Document - doc1.txt Term - said Joe     2.1337695535364362E-4
+Document - doc1.txt Term - it He        2.1337695535364362E-4
+Document - doc1.txt Term - Becky Thatcher       1.9696334340336334E-4
+Document - doc1.txt Term - and Huck     1.8054973145308306E-4
+Document - doc1.txt Term - The boy      1.6413611950280276E-4
+Document - doc1.txt Term - Aunt Pollys  1.6413611950280276E-4
+Document - doc1.txt Term - Oh Tom       1.6413611950280276E-4
+Document - doc1.txt Term - the knife    1.6413611950280276E-4
+Document - doc1.txt Term - boys were    1.6413611950280276E-4
+Document - doc1.txt Term - No 2 1.4772250755252248E-4
+Document - doc1.txt Term - Robin Hood   1.4772250755252248E-4
+
+Document - doc2.txt Term - the king     0.001050057624128412
+Document - doc2.txt Term - the duke     8.820484042678661E-4
+Document - doc2.txt Term - he says      8.820484042678661E-4
+Document - doc2.txt Term - warnt no     7.035386081660361E-4
+Document - doc2.txt Term - begun to     6.825374556834678E-4
+Document - doc2.txt Term -  It was      5.25028812064206E-4
+Document - doc2.txt Term - the canoe    4.620253546165013E-4
+Document - doc2.txt Term -  I was       4.3052362589264895E-4
+Document - doc2.txt Term -  He said     4.200230496513648E-4
+Document - doc2.txt Term -  So I        4.200230496513648E-4
+Document - doc2.txt Term - gwyne to     3.9902189716879656E-4
+Document - doc2.txt Term - Mary Jane    3.8852132092751245E-4
+Document - doc2.txt Term - Aunt Sally   3.780207446862283E-4
+Document - doc2.txt Term - it  I        3.780207446862283E-4
+Document - doc2.txt Term - says the     3.780207446862283E-4
+Document - doc2.txt Term -  I says      3.675201684449442E-4
+Document - doc2.txt Term -  But I       3.675201684449442E-4
+Document - doc2.txt Term -  There was   3.46519015962376E-4
+Document - doc2.txt Term - we went      3.150172872385236E-4
+Document - doc2.txt Term - was pretty   2.835155585146712E-4
+
+Document - doc3.txt Term -  He  0.0011831393588088318
+Document - doc3.txt Term - me   0.0011082571209095388
+Document - doc3.txt Term -  My  0.0010333748830102455
+Document - doc3.txt Term - whom I       6.739401410936384E-4
+Document - doc3.txt Term - I shall      5.990579031943452E-4
+Document - doc3.txt Term -  She 5.990579031943452E-4
+Document - doc3.txt Term - the cottage  4.642698749756176E-4
+Document - doc3.txt Term -  In  3.893876370763244E-4
+Document - doc3.txt Term - upon me      3.7441118949646583E-4
+Document - doc3.txt Term - I cannot     3.7441118949646583E-4
+Document - doc3.txt Term - endeavoured to       3.594347419166072E-4
+Document - doc3.txt Term -  A   3.4445829433674857E-4
+Document - doc3.txt Term -  When        3.4445829433674857E-4
+Document - doc3.txt Term - of man       3.1450539917703124E-4
+Document - doc3.txt Term - me from      3.1450539917703124E-4
+Document - doc3.txt Term -  Yet 3.1450539917703124E-4
+Document - doc3.txt Term -  They        3.1450539917703124E-4
+Document - doc3.txt Term - My father    2.6957605643745534E-4
+Document - doc3.txt Term -  Sometimes   2.545996088575967E-4
+Document - doc3.txt Term - I resolved   2.545996088575967E-4

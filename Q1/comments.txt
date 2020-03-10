@@ -1,0 +1,1 @@
+list of top 18 terms with tfidf values

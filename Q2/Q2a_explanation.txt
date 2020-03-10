@@ -1,0 +1,19 @@
+In Q1 output, Document - 0002 Term - from     0.02149293583131613
+In Q2 output, Document - 0002 Term - from     0.17064375897410047
+
+In Q1 output, Document - 0002 Term - Latin    0.025549122992281622
+In Q2 output, Document - 0002 Term - Latin    0.12798281923057533
+
+In Q1 output, Document - 0006 Term - semper   0.05563223842808956
+In Q2 output, Document - 0006 Term - semper   0.24047483707625808
+
+If we take off the words which repeat once or twice in the document, then 
+the words which are important are being taken off, hence the words which are not important
+are having the high tfidf values.
+
+This is because idf captures the number of documents with the Term. The more no. of docs with 
+the term the less idf value.
+
+For the above examples, tf increases as total terms in document are being reduced,
+and hence the tfidf values increases in Q2 output.
+

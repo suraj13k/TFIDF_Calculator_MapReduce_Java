@@ -1,0 +1,9 @@
+Which output – obtained in 3(a) or in 2(a) – better characterizes the documents? Give reasons for your answers?
+
+Output obtained in 3(a) better characterizes the documents. This is because
+as 2(a) removes all the words which are repeated once or twice, the important
+words are being removed which will repeat less no. of times.
+Hence all the stop words which repeat more no. of times in the documents are 
+being shown in the output.
+In case of 3(a) it is considering even the rare words.
+

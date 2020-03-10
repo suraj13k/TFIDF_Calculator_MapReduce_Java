@@ -1,0 +1,3 @@
+doc1.txt	76142
+doc2.txt	116949
+doc3.txt	81187
