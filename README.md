@@ -1,7 +1,7 @@
 # TFIDF_Calculator_MapReduce_Java
 TFIDF calculator for the words in list of documents provided as input. This program is written in JAVA. 
 
-Q1.	Execute all phases of the TFIDF program, on the small sample data shared by Sahil, and submit the following items:
+Q1.	Execute all phases of the TFIDF program, on the small sample data, and submit the following items:
     a.	TFIDF for top 18 terms in each document, sorted in descending order of their tfidf values, and formatted for easy readability.
 
 Q2.	Modify the programs to remove from consideration all those words that occur only once or twice in each document. Repeat the task of Q1 above. Comment on any changes in the results of part 1(a). Select at least 3 different words for which there is a change in their tfidf values and explain the reason for the change.
